@@ -31,3 +31,15 @@ A smart, scriptable Windows temp file cleaner that **deletes everything that can
 
 ```bash
 git clone https://github.com/Denim022/Automated-Temp-Files-Deletion.git
+
+```
+---
+
+## 🧪 How to Run:
+1. Save the script as `clean_temp.py`.
+2. Run from terminal or VS Code **as administrator** (some files need elevation):
+   ```bash
+   python clean_temp.py
+   ```
+
+---

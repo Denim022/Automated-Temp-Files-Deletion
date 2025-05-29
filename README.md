@@ -30,5 +30,4 @@ A smart, scriptable Windows temp file cleaner that **deletes everything that can
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Denim022/temp-cleaner.git
-cd temp-cleaner
+git clone https://github.com/Denim022/Automated-Temp-Files-Deletion.git

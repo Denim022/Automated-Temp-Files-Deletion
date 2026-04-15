@@ -39,7 +39,7 @@ git clone https://github.com/Denim022/Automated-Temp-Files-Deletion.git
 1. Save the script as `clean_temp.py`.
 2. Run from terminal or VS Code **as administrator** (some files need elevation):
    ```bash
-   python clean_temp.py
+   python temp-cleaner.py
    ```
 
 ---

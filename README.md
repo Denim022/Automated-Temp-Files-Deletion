@@ -30,7 +30,7 @@ A smart, scriptable Windows temp file cleaner that **deletes everything that can
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Denim022/Automated-Temp-Files-Deletion.git
+https://github.com/Denim022/Automated-Temp-Files-Deletion/blob/main/temp-cleaner.py
 
 ```
 ---
